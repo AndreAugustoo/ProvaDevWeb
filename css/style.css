@@ -1,0 +1,162 @@
+body
+{
+	background-color: black;
+}
+
+#menu
+{
+	display: block;
+}
+
+nav#menu ul
+{
+  text-transform: uppercase;
+  position: relative; 
+  box-shadow: 1px 1px 5px white;
+  padding: 30px;
+  background-color: rgb(192, 192, 192, 0.5);
+  text-align: center;
+  margin: 0 auto;
+  text-decoration: none;
+}
+
+
+nav#menu a
+{
+	color: white;
+	text-decoration: none;
+}
+
+nav#menu a:hover
+{
+	color: silver;
+}
+
+nav#menu li
+{       
+	display: inline;
+	font-size: 15px;
+	padding: 15px;
+	box-shadow: 1px 1px 10px white;
+	border-radius: 10px;
+	background-color: black;
+}
+
+nav#menu li:hover
+{       
+    display: inline;
+    padding: 20px;
+    box-shadow: 1px 1px 5px white;
+}
+
+h1
+{
+	text-align: center;
+	color: white;
+	box-shadow: 1px 1px 3px white;
+}
+
+p
+{
+	color: white;
+	font-size: 30px;
+}
+
+#imagem1
+{
+	box-shadow: 1px 1px 5px white;
+	right: -20%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#imagem2
+{
+	box-shadow: 1px 1px 5px white;
+	right: -20%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#imagem3
+{
+	box-shadow: 1px 1px 5px white;
+	right: -20%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#imagem4
+{
+	box-shadow: 1px 1px 5px white;
+	right: -20%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#imagem5
+{
+	box-shadow: 1px 1px 5px white;
+	right: -20%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#planos
+{
+	color: white;
+	font-size: 30px;
+	text-align: center;
+}
+
+table
+{
+	border-collapse: collapse;
+	margin: auto;
+}
+
+caption
+{
+	border: 3px solid white;
+	margin: 3px;
+}
+
+td
+{
+	border: 3px solid silver;
+	text-align: center;
+	padding: 9px;
+	background-color: rgb(53,56,57);
+}
+
+th
+{
+	border: 3px solid silver;
+	padding: 3px;
+}
+
+footer#rodape 
+{
+	clear: both;
+	border-top: 2px black;
+	box-shadow: 1px 1px 10px white;
+	background-color: rgb(255,255,255, 0.5)
+}
+
+footer#rodape a#link 
+{
+    color: blue;
+}
+
+footer#rodape a#link:hover
+{
+    color: red;
+}
+
+footer#rodape p 
+{
+	text-align: center;
+    font-size: 10pt;
+    color: black;
+    font-family: sans-serif;
+}

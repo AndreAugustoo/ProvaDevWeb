@@ -1,0 +1,14 @@
+form
+{
+	background-color: rgb(53,56,57);
+	max-width: 500px;
+	text-align: center;
+	font-size: 19px;
+	margin: auto;
+	border: thin solid white;
+}
+
+form label
+{
+	margin-right: 20px;
+}
